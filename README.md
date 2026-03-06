@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="420">
       <img src="https://i.imghippo.com/files/ECgg9759vgk.gif" alt="Coding" width="100%" style="max-width:380px;"><br>
-      <h3>🔥 CODER 78 PHÚ YÊN MÃI ĐỈNH 🔥</h3>
+      <h3>🔥 CODER 78 PHÚ YÊN (cũ) MÃI ĐỈNH 🔥</h3>
     </td>
     <td align="center" width="480">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=DC3545&multiline=true&width=400&height=250&lines=%F0%9F%91%A4+Name:+Tr%E1%BA%A7n+Nguy%E1%BB%85n+Nh%E1%BA%ADt+To%C3%A0n;%F0%9F%94%A5+Username:+NToandeptrai1;%F0%9F%93%85+Born:+07/12/2005;%F0%9F%9A%80+Status:+Coder+Ph%C3%BA+Y%C3%AAn;%F0%9F%92%96+Passion:+Coding+and+Innovation;%E2%9C%A8+Slogan:+Never+Give+Up" alt="Personal Info" />
