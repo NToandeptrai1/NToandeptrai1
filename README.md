@@ -55,7 +55,7 @@
 <!-- ======================== FOOTER ============================== -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=NEVER+GIVE+UP+%F0%9F%94%A5;Ph%C3%BA+Y%C3%AAn+Developer+-+Code+Strong+%F0%9F%92%BB">
-  <p><em><b>🇻🇳 Phú Yên Developer – Coding with Pride 🇻🇳</b></em></p>
+  <p><em><b>🇻🇳 Phú Yên(cũ) Developer – Coding with Pride 🇻🇳</b></em></p>
 </div>
 
 <div align="center">
